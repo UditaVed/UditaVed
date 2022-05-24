@@ -1,10 +1,7 @@
-### Hi there 👋, **I Am Udita**
-#### CSE Undergrad at VIT
+
 ![CSE Undergrad at VIT](https://www.linkpicture.com/q/hey.png)
 
-Skilled in Designing and Front End
-
-Skills: HTML,CSS,BOOTSTRAP,JAVASCRIPT,Spline,Figma
+### Skills: HTML,CSS,BOOTSTRAP,JAVASCRIPT,Spline,Figma
 
 
 
