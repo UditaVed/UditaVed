@@ -1,6 +1,6 @@
 
 # 💫Howdy Fellas :
-I am Udita Vishnoi a frontend developer and designer honing my skills in the backend and the problem-solving arena
+I am Udita Vishnoi a frontend developer and designer honing my skills in the backend and the problem-solving arena.
 
 Reach me : https://www.linkedin.com/in/udita-vishnoi/
 ## 🌐Socials
