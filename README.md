@@ -1,6 +1,7 @@
 
 ## Hi I'm Udita 👋
 I am a Web Developer honing my skills in the problem-solving arena.
+* 💬 Ask me about Web development, Open Source, WTM oppurtunties,3D modelling(Spline)
 * 👯 I'm into open source and currently working on next js and authentication.
 * 📫 How to reach me: www.linkedin.com/in/udita-vishnoi on Linkedin and 
 * 🪄 My favourite spell says **OK Future Lumos**
