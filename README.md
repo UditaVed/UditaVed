@@ -1,8 +1,9 @@
 
-# Hello 💫
-I am Udita Vishnoi a Web Developer honing my skills in the problem-solving arena.
-
-* My favourite spell says **OK Future Lumos**
+## Hi I'm Udita 👋
+I am a Web Developer honing my skills in the problem-solving arena.
+* 👯 Im into open source and currently working on next js and authentication.
+* 📫 How to reach me: www.linkedin.com/in/ on Linkedin.
+* 🪄 My favourite spell says **OK Future Lumos**
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/udita-vishnoi/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]([[https://twitter.com/https://twitter.com/UditaVed](https://twitter.com/UditaVed)](https://twitter.com/UditaVed)) 
