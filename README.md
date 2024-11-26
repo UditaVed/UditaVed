@@ -15,4 +15,4 @@ I am a Web Developer honing my skills in the problem-solving arena.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UditaVed&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📊Read Stats :
-<a href="https://app.daily.dev/Udita_Ved"><img src="https://api.daily.dev/devcards/ef2e00d19a0247d48fdca0032f17f264.png?r=skb" width="400" alt="Udita Vishnoi's Dev Card"/></a>
+<a href="https://app.daily.dev/udita_ved"><img src="https://api.daily.dev/devcards/v2/wbYqey5Pg6NBSByvnKlWs.png?type=default&r=y9j" width="356" alt="Udita Vishnoi's Dev Card"/></a>
